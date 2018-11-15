@@ -10,4 +10,5 @@ public class SceneManager : MonoBehaviour
             Application.Quit();
 	}
 	// some comments here
+	//another comment
 }
