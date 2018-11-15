@@ -1,2 +1,2 @@
 # Dummy-Project
-Simple project for learning purposes
+Simple project for learning purposes.
